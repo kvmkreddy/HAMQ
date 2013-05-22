@@ -1,4 +1,4 @@
-OS
+HAMQ
 ==
 
-Java/JavaEE development tools/utilities developed with my ideas.
+HAMQ solution developed with my ideas.
